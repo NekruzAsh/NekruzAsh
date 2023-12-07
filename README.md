@@ -1,5 +1,5 @@
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello%20I'm%20Nekruz%20Ashrapov%20🖐️;%20I'm%20a%20Web%20-%20Developer;%20A%20Computer%20Science%20student%20@%20University%20of%20Cincinnati&font=Fira%20Code&center=true&width=950&height=45&color=F55600)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello%20there%20🖐️;%20I'm%20Nekruz%20Ashrapov%20;&font=Fira%20Code&center=true&width=950&height=45&color=F55600)](https://git.io/typing-svg)
 
 
 
