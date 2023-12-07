@@ -26,12 +26,17 @@
 <img align="left" alt = "python" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt = "github" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt = "git" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</br>
 
+#
 
-<!--START_SECTION:activity-->
+<br>
 
-
-
+<p align="center" style="display: flex; justify-content: space-between; margin: 20px;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nekruzash&show_icons=true&locale=en&theme=gruvbox&rank_icon=github" align="center"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekruzash&theme=gruvbox&layout=compact" align="center"/>
+</p>
 
 
           
