@@ -7,7 +7,7 @@
 
 **`Digital Architect (Student/Developer)`**
 
-🧐 About 
+## 🧐 About 
 * I'm a Computer Science student with a passion for coding and crafting innovative software solutions.
 * Dedicated to creating applications that address real-world challenges and enhance daily experiences of people .
 * I like spending my free time learning about new technologies and building projects from scratch.
