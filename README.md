@@ -12,7 +12,7 @@
 * Dedicated to creating applications that address real-world challenges and enhance daily experiences of people .
 * I like spending my free time learning about new technologies and building projects from scratch.
 * I love F1, my favorite team is Red Bull Racing and my favorite driver of all time is Fernando Alonso.
-* I like hiking and exploring new trails in Ohio 🌿.
+* I like hiking and exploring trails in Ohio 🌿.
 * Check out my <a target = "_blank" href="https://my-portfolio-nekruz-ashrapovs-projects.vercel.app/">Portfolio Website</a> 💼
 ---
 ### Languages and Tools:
