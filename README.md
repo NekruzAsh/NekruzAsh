@@ -23,6 +23,7 @@
 <img align="left" alt = "js" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />        
 <img align="left" alt = "mongo" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 <img align="left" alt = "node" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt = "C(programming language)" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />   
 <img align="left" alt = "cplusplus" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" alt = "python" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt = "github" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
