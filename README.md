@@ -1,8 +1,3 @@
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello%20there%20🖐️;%20I'm%20Nekruz%20Ashrapov%20;&font=Fira%20Code&center=true&width=950&height=45&color=F55600)](https://git.io/typing-svg)
-
-
-
 # 🏎️ Nekruz Ashrapov
 
 **`Digital Architect (Student/Developer)`**
