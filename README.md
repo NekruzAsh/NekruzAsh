@@ -3,11 +3,10 @@
 **`Digital Architect (Student/Developer)`**
 
 ## 🧐 About 
-* I'm a Computer Science student with a passion for coding and crafting innovative software solutions.
-* Dedicated to creating applications that address real-world challenges and enhance daily experiences of people.
+* Undergraduate Computer Science student @ University of Cincinnati. 
+* Dedicated to building applications that address real-world challenges and enhance daily experiences of people.
 * I like spending my free time learning about new technologies and building projects from scratch.
 * I love F1, my favorite team is Red Bull Racing and my favorite driver of all time is Fernando Alonso.
-* Check out my <a target="_blank" href="https://nashrapov.com/">Portfolio Website</a> 💼 for live previews of my projects.
 ---
 ### Languages and Tools:
 <img align="left" alt = "html5" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
