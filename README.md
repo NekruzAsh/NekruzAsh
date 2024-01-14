@@ -7,7 +7,15 @@
 * Dedicated to building applications that address real-world challenges and enhance daily experiences of people.
 * I like spending my free time learning about new technologies and building projects from scratch.
 * I love F1, my favorite team is Red Bull Racing and my favorite driver of all time is Fernando Alonso.
+
+## 🌐 Social
+<a href="https://nashrapov.com/"><img align="left" alt = "portfolio" style = "padding-right:10px" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nekruzash/"><img align="left" alt = "Linkedin" style = "padding-right:10px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a><img align="left" alt = "Outlook" style = "padding-right:10px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<br />
+
 ---
+
 ### Languages and Tools:
 <img align="left" alt = "html5" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt = "css3" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
