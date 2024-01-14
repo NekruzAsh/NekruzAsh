@@ -29,9 +29,9 @@
 <br>
 
 <p align="center" style="display: flex; justify-content: space-between; margin: 20px;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nekruzash&show_icons=true&locale=en&theme=gruvbox&rank_icon=github" align="center"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nekruzash&show_icons=true&locale=en&theme=codeSTACKr&rank_icon=github" align="center"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekruzash&theme=gruvbox&layout=compact" align="center"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekruzash&theme=codeSTACKr&layout=compact" align="center"/>
 </p>
 
 
