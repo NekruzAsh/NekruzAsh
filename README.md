@@ -5,7 +5,7 @@
 ## 🧐 About Me
 * Undergraduate Computer Science student @ University of Cincinnati
 * Experienced Software Developer focused on building accessible digital experiences
-* Committed to developing applications that effectively tackle real-world challenges through a dedicated passion for problem-solving
+* Committed to developing applications that effectively tackle real-world challenges through a passion for problem-solving
 * During my free time, I am experimenting with different AI LLMs to better tailor them for my personal projects
 * I love F1, my favorite team is Red Bull Racing and my favorite driver of all time is Fernando Alonso
 
