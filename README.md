@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fe8019&random=false&width=435&lines=Hello%2C+my+name+is+Nekruz+Ashrapov.;I'm+a+Full-Stack+Web+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5B00&random=false&width=435&lines=Hello%2C+my+name+is+Nekruz+Ashrapov.;I'm+a+Full-Stack+Web+Developer.)](https://git.io/typing-svg)
 
 # 🏎️ Nekruz Ashrapov
 
