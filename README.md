@@ -26,8 +26,12 @@
 <br />
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=NekruzAsh&theme=gruvbox)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekruzAsh&layout=compact&theme=gruvbox" alt="Top Langs" width="380" height="195">
-
+<div style="text-align: center;">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=NekruzAsh&theme=gruvbox" alt="GitHub Streak">
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekruzAsh&layout=compact&theme=gruvbox" alt="Top Langs" height="195">
+</div>
 
           
 
