@@ -30,9 +30,6 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=NekruzAsh&theme=gruvbox" alt="GitHub Streak">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=NekruzAsh&show_icons=true&theme=gruvbox&rank_icon=github" alt="GitHub Stats">
-  </a>
 </div>
 
 
