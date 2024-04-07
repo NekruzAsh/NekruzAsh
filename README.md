@@ -1,8 +1,9 @@
 
 <div align="center">
-    <img src="https://github.com/NekruzAsh/NekruzAsh/assets/64292629/713b4a0b-da8d-4506-b1f6-44bb6b89e013" alt="giphy" style="width: 100%; max-width: 100%; height: 300px;">
-</div>
+    
+![giphy(1)](https://github.com/NekruzAsh/NekruzAsh/assets/64292629/c27257bd-7dc3-4c67-ac1e-667966d48051)
 
+</div>
 
 
 <div align="center">
