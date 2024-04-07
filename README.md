@@ -1,7 +1,7 @@
 
 <div align="center">
     
-![giphy(2)](https://github.com/NekruzAsh/NekruzAsh/assets/64292629/2a577d07-869e-4cb1-9dcb-71a6843abdff)
+![giphy(3)](https://github.com/NekruzAsh/NekruzAsh/assets/64292629/d77059e6-54b7-4822-9695-50c6c03a1056)
 
 </div>
 
