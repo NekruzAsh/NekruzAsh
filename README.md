@@ -1,4 +1,10 @@
 
+<div salign="center">
+    <img src="https://github.com/NekruzAsh/NekruzAsh/assets/64292629/713b4a0b-da8d-4506-b1f6-44bb6b89e013" alt="giphy" style="width: 100%; max-width: 100%; height: 300px;">
+</div>
+
+
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF204E&random=false&width=435&lines=Hello%2C+my+name+is+Nekruz+Ashrapov.;I'm+a+Full-Stack+Web+Developer.)](https://git.io/typing-svg)
