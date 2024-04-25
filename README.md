@@ -1,10 +1,32 @@
 
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF204E&random=false&width=435&lines=hello+hola+bonjour+привет+hallo;My+name+is+Nekruz+Ashrapov.;I'm+a+Full-Stack+Web+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f75c7e&random=false&width=435&size=22&lines=hello+hola+bonjour+привет+hallo;My+name+is+Nekruz+Ashrapov.;I'm+a+Full-Stack+Web+Developer.)](https://git.io/typing-svg)
 
 </div>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nekruzash/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/users/1166749150814158949" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://nashrapov.com/"><img width="32px" alt="nashrapov.com" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+
+</p>
+
+<br/>
+
+<p align="center">
+ <a href="https://github.com/NekruzAsh?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NekruzAsh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+ 
+<a href="mailto:nekruzashrapov16@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://github.com/NekruzAsh?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Of%20My%20Repos-640465?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+</p>
 
 ## 🏄‍♂️ Nekruz Ashrapov
 
@@ -41,21 +63,18 @@
 
 ---
 
-<div align="center">  
- 
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 8px;">  
-    <img src="https://github-readme-stats.vercel.app/api?username=NekruzAsh&theme=radical" height="165" />
-  </a> 
-        &nbsp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekruzAsh&theme=radical&layout=compact" alt="Top Langs">
+<h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NekruzAsh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=NekruzAsh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NekruzAsh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NekruzAsh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
-</div>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="NekruzAsh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NekruzAsh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-## 🌐 Let's Connect
-
-<a href="https://nashrapov.com/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/nekruzash/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nekruzashrapov16@gmail.com)
 
 
 
