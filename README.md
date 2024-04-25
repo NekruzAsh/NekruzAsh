@@ -1,7 +1,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f75c7e&random=false&width=435&size=22&lines=hello+hola+bonjour+привет+hallo;My+name+is+Nekruz+Ashrapov.;I'm+a+Full-Stack+Web+Developer.)](https://git.io/typing-svg)
+![Screenshot 2024-04-24 230321](https://github.com/NekruzAsh/NekruzAsh/assets/64292629/75735a32-7649-49c2-ab89-41b3c2ba3991)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f75c7e&random=false&width=435&size=22&lines=Junior%20Computer%20Science%20Student.;5%2B%20years%20of%20coding%20experience.;Full-Stack%20Web%20Developer.)]()
 
 </div>
 
@@ -27,11 +29,6 @@
 <a href="https://github.com/NekruzAsh?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Of%20My%20Repos-640465?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 </p>
-
-## 🏄‍♂️ Nekruz Ashrapov
-
-**`Digital Architect (Student/Developer)`**
-
 
 
 ## 🧐 About Me
