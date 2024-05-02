@@ -30,7 +30,6 @@
 
 </p>
 
-
 ## 🧐 About Me
  📚 Undergraduate Computer Science student @ University of Cincinnati
  <br />
