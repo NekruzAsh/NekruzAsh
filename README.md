@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nekruzash/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/1166749150814158949" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.com/users/1166749150814158949" alt="Discord" title="NekruzAsh Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://nashrapov.com/"><img width="32px" alt="nashrapov.com" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://nashrapov.com/"><img width="32px" alt="nashrapov.com" title="portfolio website" src="https://i.imgur.com/mVm29vK.png"></a>
 
 </p>
 
@@ -21,7 +21,7 @@
 
 <p align="center">
  <a href="https://github.com/NekruzAsh?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NekruzAsh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NekruzAsh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow Me&logoColor=white"/></a>
  
 <a href="mailto:nekruzashrapov16@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
