@@ -18,8 +18,6 @@
 <br/>
 
 <p align="center">
- <a href="https://github.com/NekruzAsh?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NekruzAsh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow Me&logoColor=white"/></a>
  
 <a href="mailto:nekruzashrapov16@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
