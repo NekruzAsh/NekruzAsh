@@ -1,9 +1,6 @@
 
 <div align="center">
 
-
-![Screenshot 2024-04-24 230321-Photoroom png-Photoroom](https://github.com/NekruzAsh/NekruzAsh/assets/64292629/f660edf9-a4ea-4e65-9411-9affa4fd1fbe)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f75c7e&random=false&width=435&size=22&lines=Junior%20Computer%20Science%20Student.;5%2B%20years%20of%20coding%20experience.;Full-Stack%20Web%20Developer.)]()
 
 </div>
@@ -31,7 +28,7 @@
 
 </p>
 
-## 🧐 About Me
+## 🏄‍♂️ Nekruz Ashrapov
  📚 Undergraduate Computer Science student @ University of Cincinnati
  <br />
  <br />
