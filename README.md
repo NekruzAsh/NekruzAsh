@@ -28,7 +28,7 @@
 
 </p>
 
-## 🏄‍♂️ Nekruz Ashrapov
+# 🏄‍♂️ Nekruz Ashrapov
  📚 Undergraduate Computer Science student @ University of Cincinnati
  <br />
  <br />
