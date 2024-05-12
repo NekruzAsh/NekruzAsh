@@ -43,7 +43,7 @@
 
 ## 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,scss,react,nodejs,express,nextjs,cpp,py,mongodb,firebase,git,github,vscode,anaconda,figma,vercel,flutter&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,scss,react,nodejs,express,nextjs,cpp,py,mongodb,firebase,git,github,vscode,anaconda,figma,vercel,flutter,dart,supabase&perline=11)](https://skillicons.dev)
 
 
 
