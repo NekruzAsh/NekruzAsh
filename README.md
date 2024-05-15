@@ -1,7 +1,10 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f75c7e&random=false&width=435&size=22&lines=Junior%20Computer%20Science%20Student.;5%2B%20years%20of%20coding%20experience.;Full-Stack%20Web%20Developer.)]()
+![names](https://github.com/NekruzAsh/NekruzAsh/assets/64292629/da31eabd-298b-474f-880f-94da5dbd68b7)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f75c7e&random=false&width=435&size=22&lines=Junior%20Computer%20Science%20Student.;5%2B%20years%20of%20coding%20experience.)]()
 
 </div>
 
@@ -26,7 +29,7 @@
 
 </p>
 
-# 🏄‍♂️ Nekruz Ashrapov
+## ✨About
  📚 Undergraduate Computer Science student @ University of Cincinnati
  <br />
  <br />
